@@ -34,7 +34,6 @@ I am ebrahimghiasi.
     <br>
 </details>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ebrahimghiasi)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
